@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Maarten_Kicad5")(type "Legacy")(uri "D:/Users/Maarten/Documents/Kicad/library/Maarten_Kicad5.lib")(options "")(descr "")(disabled))
+  (lib (name "8-4GHzDSN-rescue")(type "Legacy")(uri "${KIPRJMOD}/8-4GHzDSN_V2-rescue.lib")(options "")(descr ""))
+)
